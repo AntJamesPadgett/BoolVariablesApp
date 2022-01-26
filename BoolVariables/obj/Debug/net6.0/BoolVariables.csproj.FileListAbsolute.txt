@@ -1,0 +1,14 @@
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.exe
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.deps.json
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.runtimeconfig.json
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.dll
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\ref\BoolVariables.dll
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\bin\Debug\net6.0\BoolVariables.pdb
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.AssemblyInfoInputs.cache
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.AssemblyInfo.cs
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.dll
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\ref\BoolVariables.dll
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.pdb
+C:\Users\antho\repos\BoolVariablesApp\BoolVariables\obj\Debug\net6.0\BoolVariables.genruntimeconfig.cache
